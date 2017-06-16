@@ -25,3 +25,4 @@ print_r($json);
  
 curl_close($curlObj);
 echo 'Shortened URL ->'.$json->id;
+?>
